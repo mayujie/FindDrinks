@@ -1,0 +1,13 @@
+<resources>
+    <!-- a string file have on all of string in one xml -->
+    <string name="app_name">FindDrinks</string>
+    <string name="find_drinks">Please Find Your Drinks</string>
+    <string name="brands">No Drinks selected</string>
+<!--  string array for spinner  -->
+    <string-array name="brand_color">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
